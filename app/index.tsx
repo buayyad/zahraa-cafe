@@ -5,8 +5,6 @@ export default function Index() {
   return (
     <View>
       <HomeScreen />
-      {/* <Menu /> */}
-      {/* <MenuItemDetail /> */}
     </View>
   );
 }
